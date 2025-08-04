@@ -35,7 +35,7 @@ var obras = [
   { titulo: "Interfaz del oeste - ¿Cómo queremos vivir juntxs?", archivo: "interfazoeste" },
   { titulo: "Memoria de un eco", archivo: "memoriadeuneco" },
   { titulo: "El libro... Digitalizado", archivo: "ellibro2025" },
-
+  { titulo: "ESC/P - Performance de control de escaneo", archivo: "escp" },
 
 ];
 
