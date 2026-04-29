@@ -1,5 +1,6 @@
 var obras = [
   { titulo: "AR para todes", archivo: "arparatodes" },
+  { titulo: "Símbolos", archivo: "simbolos" },
   { titulo: "Nomofobia", archivo: "nomofobia" },
   { titulo: "Grabación encadenada", archivo: "reregraba" },
   { titulo: "Difusión estable", archivo: "difusion" },
